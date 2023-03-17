@@ -14,9 +14,9 @@ Note: If you are coding along with the video, we suggest you open the video in a
 
 
 #### Using this template, you will be able to practice the following:
-- postioning shapes on the p5.js canvas
-- color functions
-- shapes 
+- Positioning shapes on the p5.js canvas.
+- Color functions: stroke(), fill() and noFill().
+- Shapes: ellipse(). 
 
 
 #### Get Started:
